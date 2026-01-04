@@ -1,0 +1,5 @@
+project:
+  name: dbt-dag
+
+runtime:
+  version: "12.6.0"
